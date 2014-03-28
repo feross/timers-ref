@@ -1,7 +1,7 @@
 {
   "name": "timers-ref",
   "description": "`setTimeout` and `setInterval` with `unref` and `ref` like in node.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
   "bugs": {
     "url": "https://github.com/feross/timers-ref/issues"
