@@ -1,0 +1,46 @@
+{
+  "name": "timers-ref",
+  "description": "`setTimeout` and `setInterval` with `unref` and `ref` like in node.js",
+  "version": "0.0.0",
+  "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
+  "bugs": {
+    "url": "https://github.com/feross/timers-ref/issues"
+  },
+  "dependencies": {
+    "process": "^0.6.0"
+  },
+  "devDependencies": {
+    "tape": "2.x",
+    "testling": "^1.6.1"
+  },
+  "homepage": "https://github.com/feross/timers-ref",
+  "keywords": [
+    "setTimeout",
+    "setInterval",
+    "unref",
+    "ref",
+    "process",
+    "exit",
+    "browser",
+    "event loop"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/timers-ref.git"
+  },
+  "scripts": {
+    "test": "testling -u"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/9..latest",
+      "chrome/25..latest",
+      "firefox/20..latest",
+      "safari/6..latest",
+      "opera/15.0..latest"
+    ]
+  }
+}
