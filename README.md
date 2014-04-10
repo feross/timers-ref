@@ -1,4 +1,4 @@
-# timers-ref [![npm](http://img.shields.io/npm/v/timers-ref.svg)](https://npmjs.org/package/timers-ref)
+# timers-ref [![npm](https://img.shields.io/npm/v/timers-ref.svg)](https://npmjs.org/package/timers-ref)
 
 [![browser support](https://ci.testling.com/feross/timers-ref.png)](https://ci.testling.com/feross/timers-ref)
 
