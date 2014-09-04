@@ -68,6 +68,8 @@ function _setTimeout (cb, time) {
 }
 
 function _clearTimeout (timeout) {
+  if (!(timeout instanceof Timeout)) return;
+
   if (timeout._timeout) {
     clearTimeout(timeout._timeout)
   }
