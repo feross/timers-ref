@@ -10,7 +10,7 @@
     "process": "^0.6.0"
   },
   "devDependencies": {
-    "tape": "2.x"
+    "tape": "^4.0.0"
   },
   "homepage": "https://github.com/feross/timers-ref",
   "keywords": [
