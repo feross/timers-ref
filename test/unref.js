@@ -23,4 +23,3 @@ test('timeout.unref() causes process.on(\'exit\') to get called before all timeo
   })
   timeout.unref()
 })
-

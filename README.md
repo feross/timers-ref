@@ -1,6 +1,13 @@
-# timers-ref [![npm](https://img.shields.io/npm/v/timers-ref.svg)](https://npmjs.org/package/timers-ref)
+# timers-ref [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
-[![browser support](https://ci.testling.com/feross/timers-ref.png)](https://ci.testling.com/feross/timers-ref)
+[travis-image]: https://img.shields.io/travis/feross/timers-ref.svg?style=flat
+[travis-url]: https://travis-ci.org/feross/timers-ref
+[npm-image]: https://img.shields.io/npm/v/timers-ref.svg?style=flat
+[npm-url]: https://npmjs.org/package/timers-ref
+[downloads-image]: https://img.shields.io/npm/dm/timers-ref.svg?style=flat
+[downloads-url]: https://npmjs.org/package/timers-ref
+
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/timers-ref.svg)](https://saucelabs.com/u/timers-ref)
 
 ### `setTimeout` and `setInterval` with `unref` and `ref` like in node.js
 

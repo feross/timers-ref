@@ -82,7 +82,7 @@ function _setInterval (cb, time) {
 }
 
 function _clearInterval (interval) {
-    if (interval._interval) {
+  if (interval._interval) {
     clearInterval(interval._interval)
   }
   interval.unref()
