@@ -7,8 +7,6 @@
 [downloads-image]: https://img.shields.io/npm/dm/timers-ref.svg
 [downloads-url]: https://npmjs.org/package/timers-ref
 
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/timers-ref.svg)](https://saucelabs.com/u/timers-ref)
-
 ### `setTimeout` and `setInterval` with `unref` and `ref` like in node.js
 
 Please only use this in the browser, not in node.
