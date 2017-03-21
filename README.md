@@ -1,7 +1,5 @@
-# timers-ref [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# timers-ref [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[travis-image]: https://img.shields.io/travis/feross/timers-ref/master.svg
-[travis-url]: https://travis-ci.org/feross/timers-ref
 [npm-image]: https://img.shields.io/npm/v/timers-ref.svg
 [npm-url]: https://npmjs.org/package/timers-ref
 [downloads-image]: https://img.shields.io/npm/dm/timers-ref.svg
