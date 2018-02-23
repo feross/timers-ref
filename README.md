@@ -1,5 +1,7 @@
 # timers-ref [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/timers-ref.svg)](https://greenkeeper.io/)
+
 [npm-image]: https://img.shields.io/npm/v/timers-ref.svg
 [npm-url]: https://npmjs.org/package/timers-ref
 [downloads-image]: https://img.shields.io/npm/dm/timers-ref.svg
